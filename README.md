@@ -23,7 +23,7 @@ Urban areas like Baltimore face significant challenges in allocating law enforce
 
 ## Dataset Information
 
-The analysis is based on the **Baltimore Crime Dataset**, which includes:
+The analysis is based on the **Baltimore Crime Dataset** (available on [Kaggle](https://www.kaggle.com/datasets/sohier/crime-in-baltimore)), which includes:
 - **Total Records:** 276,529 crime incidents.
 - **Date Range:** 2012–2017.
 - **Features:** Geospatial coordinates (latitude/longitude), timestamps, crime type, location descriptors, and weapon information.
