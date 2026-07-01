@@ -1,0 +1,21 @@
+# .gitignore for KNIME Projects
+
+# KNIME workspace files
+.metadata/
+*.log
+
+# Data files (Exclude large datasets)
+*.csv
+*.xlsx
+*.sqlite
+*.db
+/data/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
